@@ -10,8 +10,8 @@ It is very difficult to manage your daily tasks without a todo list. While conve
 
 You need a mobile app to manage your daily tasks. And, the current apps in the market are too bulky and overdone. So, we've created a simple and practical app for this purpose.
 
-    ![homepage](pic1.jpeg)
-    ![create_page](pic2.jpeg)
+   ![homepage](pic1.jpeg)
+   ![create_page](pic2.jpeg)
 
 ### Functionality and Concepts used
 
